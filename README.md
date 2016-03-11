@@ -1,0 +1,2 @@
+# about_this
+关于this的一些小函数，为了方便自己理解。同时记住name这一属性是window对象自带的属性
